@@ -26,8 +26,8 @@ Com o Diário Escolar Digital, a sua escola irá aposentar de vez o velho diári
 ### 🌐 [Gestor Municipal](https://gestormunicipal.com.br/)
 Gerenciamento inteligente de Município. O Gestor Municipal é desenvolvido com as melhores tecnologias web e pode ser acessado de qualquer lugar usando um computador, tablet ou até mesmo um celular.
 
-### 🌐 [Gestor de Ponto Eletônico](https://gestormunicipal.com.br/)
-Aliado ao Gestor Municipal, o Gestor de Ponto é um sistema moderno de Ponto Eletônico. (Em desenvolvimento) 
+### 🌐 [Gestor de Ponto Eletrônico](https://gestormunicipal.com.br/)
+Aliado ao Gestor Municipal, o Gestor de Ponto é um sistema moderno de Ponto Eletrônico. (Em desenvolvimento) 
 
 ### 🌐 [BuscadorMed](https://buscadormed.com.br/)
 O BuscadorMED é um sistema de busca que reúne para o público universitário (discentes, docentes e pesquisadores) milhões de artigos, teses, dissertações, resumos, anais e pesquisas das Ciências da Saúde, provenientes dos países ibero-americanos (Repositórios e Periódicos), em um único ambiente virtual de fácil acesso.
