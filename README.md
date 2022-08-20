@@ -17,15 +17,23 @@ Temos como foco estar alinhados com os 5 Princípios da administração Pública
 Segue alguns projetos da Left
 
 ### 🌐 [Diário Escolar Digital](https://diarioescolardigital.com.br/)
-O Diário Escolar Digital
+O Diário Escolar Digital veio para suprir uma necessidade das escolas para gerenciar a vida acadêmica de seus alunos de forma mais efetiva e eficiente.
+
+Trazemos a sua escola para o mundo tecnológico, que é um caminho sem volta. A tecnologia está presente em nosso dia a dia e temos que usá-la como ferramenta auxiliar de nossas atividades.
+
+Com o Diário Escolar Digital, a sua escola irá aposentar de vez o velho diário escolar de papel ou as nada confiáveis planilhas eletrônicas
 
 ### 🌐 [Gestor Municipal](https://gestormunicipal.com.br/)
+Gerenciamento inteligente de Município. O Gestor Municipal é desenvolvido com as melhores tecnologias web e pode ser acessado de qualquer lugar usando um computador, tablet ou até mesmo um celular.
 
 ### 🌐 [Gestor de Ponto Eletônico](https://gestormunicipal.com.br/)
+Aliado ao Gestor Municipal, o Gestor de Ponto é um sistema moderno de Ponto Eletônico. (Em desenvolvimento) 
 
 ### 🌐 [BuscadorMed](https://buscadormed.com.br/)
+O BuscadorMED é um sistema de busca que reúne para o público universitário (discentes, docentes e pesquisadores) milhões de artigos, teses, dissertações, resumos, anais e pesquisas das Ciências da Saúde, provenientes dos países ibero-americanos (Repositórios e Periódicos), em um único ambiente virtual de fácil acesso.
 
 ### 🌐 [Kixute](https://kixute.com.br/)
+Kixute é um fantasy game de apostas voltado para futebol (em desenvolvimento).
 
 
 ## Ferramentas e Tecnologias
@@ -42,4 +50,11 @@ Um pouco das ferramentas e Tecnologias que usamos em nossos projetos.
 
 ## Contatos
 
-Se você tiver algum feedback, por favor nos deixe saber por meio de fake@fake.com
+Se você tiver algum feedback, por favor nos deixe saber por meio de nossas redes sociais ou site.
+
+- [www.left.dev.br](https://www.left.dev.br/)
+- [Instagram](https://www.instagram.com/left_dev/)
+- [Facebook](https://www.facebook.com/left.tecnologia/)
+- [YouTube](https://www.youtube.com/channel/UCwybdbK7pPqFnpznbL9n0dQ?sub_confirmation=1)
+- [Linkedin](https://www.linkedin.com/company/81625738)
+- [Whatsapp](http://web.whatsapp.com/send?phone=5533988723822)
